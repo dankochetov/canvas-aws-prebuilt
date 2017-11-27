@@ -17,7 +17,7 @@ npm install --save canvas-aws-prebuilt
 
 ### Serverless
 
-If you're using [serverless-webpack](https://github.com/serverless-heaven/serverless-webpack), you'll need [node-loader](https://github.com/webpack-contrib/node-loader) to load `canvas.node`. (Isn't needed if you're also using )
+If you're using [serverless-webpack](https://github.com/serverless-heaven/serverless-webpack), you'll need [node-loader](https://github.com/webpack-contrib/node-loader) to load `canvas.node`. (Isn't needed if you're also using [webpack-node-externals](https://github.com/liady/webpack-node-externals)).
 
 ## Usage
 Replace `require('canvas')` with `require('canvas-aws-prebuilt')`.
