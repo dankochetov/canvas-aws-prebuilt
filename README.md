@@ -1,12 +1,8 @@
 # canvas-aws-prebuilt
 
------
-
-##Adapted version of [node-canvas](https://github.com/Automattic/node-canvas) to use with AWS and Serverless.
+Adapted version of [node-canvas](https://github.com/Automattic/node-canvas) to use with AWS and Serverless.
 
 #### Important note: currently this module is using `node-canvas v1.6.7`. Support of `v2` may be added later.
-
------
 
 ## Installation
 
